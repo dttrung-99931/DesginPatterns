@@ -1,0 +1,15 @@
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\home\garage\projects\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+D:\home\garage\projects\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+D:\home\garage\projects\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+D:\home\garage\projects\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+D:\home\garage\projects\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+D:\home\garage\projects\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
