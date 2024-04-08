@@ -11,7 +11,6 @@ namespace DesignPattern.AbstractFactoryDemo
     {
         public override void Demo()
         {
-            Console.WriteLine("FactoryDemo");
             Order order = new Order()
             {
                 id = 10,

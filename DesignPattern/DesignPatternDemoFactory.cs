@@ -1,5 +1,6 @@
 ﻿using DesignPattern.AbstractFactoryDemo;
 using DesignPattern.Builder;
+using DesignPattern.Composite;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,8 @@ namespace DesignPattern
         Builder,
         Factory,
         FactoryMethod,
+        Composite,
+        Facade,
     }
 
     public class DesignPatternDemoFactory
@@ -32,6 +35,10 @@ namespace DesignPattern
                     return new FactoryMethodDemo();
                 case DesignPatterns.Builder:
                     return new BuilderDemo();
+                case DesignPatterns.Composite:
+                    return new CompositeDemo();
+                case DesignPatterns.Facade:
+                    return new FacadeDemo();
             }
             throw new Exception($"Invalid  {pattern}");
         }

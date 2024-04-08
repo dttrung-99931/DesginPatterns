@@ -10,7 +10,6 @@ namespace DesignPattern.Builder
     {
         public override void Demo()
         {
-            Console.WriteLine("BuilderDemo");
             PC myPC = new PCBuilder()
                 .SetRam(Memory._16GB)
                 .SetStorage(Memory._64GB)
